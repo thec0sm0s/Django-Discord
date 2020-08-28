@@ -1,6 +1,6 @@
 """
 Django-Discord
--------------
+--------------
 An Discord OAuth2 Django extension.
 """
 
